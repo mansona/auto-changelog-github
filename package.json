@@ -1,0 +1,16 @@
+{
+  "name": "auto-changelog-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hosted-git-info": "^5.0.0",
+    "make-fetch-happen": "^10.1.8",
+    "p-map": "^4.0.0"
+  }
+}
